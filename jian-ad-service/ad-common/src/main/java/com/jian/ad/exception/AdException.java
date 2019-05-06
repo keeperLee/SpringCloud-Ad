@@ -1,4 +1,7 @@
 package com.jian.ad.exception;
 
-public class AdException {
+public class AdException  extends  Exception{
+    public AdException(String message){
+        super(message);
+    }
 }
