@@ -1,4 +1,4 @@
- 单节点erueka - server 的注册
+ #单节点erueka - server 的注册
 spring:
   application:
     name: ad-eureka
