@@ -54,7 +54,7 @@ public class AdUnit {
     @Column(name = "update_time" , nullable = false)
     private Date updateTime;
 
-    public AdUnit(Long planId, String unitName , Integer unitStatus , Integer positionType,Long budget){
+    public AdUnit(Long planId, String unitName ,  Integer positionType,Long budget){
         this.planId = planId;
         this.unitName = unitName;
         this.unitStatus = CommonStatus.Valid.getStatus();

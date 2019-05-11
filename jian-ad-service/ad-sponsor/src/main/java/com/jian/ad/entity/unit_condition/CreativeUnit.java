@@ -6,6 +6,9 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+/**
+ *  创意与推广单元关联实体类
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

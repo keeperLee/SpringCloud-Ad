@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 /**
- *  兴趣类型推广单元
+ *  兴趣类型与推广单元的联系类
  */
 
 @Data

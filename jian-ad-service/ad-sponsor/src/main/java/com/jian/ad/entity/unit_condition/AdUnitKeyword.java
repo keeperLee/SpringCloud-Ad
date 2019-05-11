@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 /**
- *  关键词推广单元
+ *  关键词与推广单元的关联类
  */
 
 @Data

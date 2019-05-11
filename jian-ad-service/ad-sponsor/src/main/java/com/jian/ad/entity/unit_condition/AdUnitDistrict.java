@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 /**
- *  地域推广单元
+ *  地域与推广单元的联系类
  */
 
 @Data
