@@ -13,12 +13,14 @@ import com.jian.ad.vo.AdPlanGetRequest;
 import com.jian.ad.vo.AdPlanRequest;
 import com.jian.ad.vo.AdPlanResponse;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
+@Service
 public class AdPlanServiceImpl  implements IAdPlanService {
 
     private final AdUserRepository adUserRepository;
