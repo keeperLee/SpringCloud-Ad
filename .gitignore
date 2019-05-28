@@ -9,3 +9,6 @@ out
 gen
 /ad-eureka/target/
 /ad-gateway/target/
+/jian-ad-service/ad-common/target/
+/jian-ad-service/ad-search/target/
+/jian-ad-service/ad-sponsor/target/
